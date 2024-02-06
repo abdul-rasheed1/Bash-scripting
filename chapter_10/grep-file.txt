@@ -1,0 +1,5 @@
+We can use this regular file for testin rep
+Regular expressions are pretty cool
+Did you ever realize that in the UK they say colour,
+but in the USA they say color (and realize)!
+Also, New Zealand is pretty far aaway.
